@@ -1,2 +1,4 @@
-GitHub Pull Request Demo
-Version 1.0
+Title: GitHub Pull Request Demo
+Version: Version 1.0
+Description: This change was added via a Pull Request.
+Deadline: 05/01/2026

@@ -1,8 +1,14 @@
 # Project Contributors
 
 This file lists all the individuals who have contributed to this 
-repository. 
+repository. This file also guide you on how to contribute to this project.
 
 ## Members:
-1. https://github.com/sadjadb - Maintainer
-2. https://github.com/sadjadbh - Contributor
+1. Sadjadb(https://github.com/sadjadb) - Maintainer
+2. Sadjadbh(https://github.com/sadjadbh) - Contributor
+
+## How to contribute:
+* Fork this repository.
+* Create a new branch.
+* Add your name to this list.
+* Submit a Pull Request.
